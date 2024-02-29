@@ -28,7 +28,7 @@ An interactive weather forecast application built with JavaScript, HTML, and CSS
 
   
 ## preview
-<img width="629" alt="Screenshot 2024-03-01 at 3 02 47 AM" src="https://github.com/Vishaldadwal10/weather-forecast-app/assets/92011329/2e61cf98-1625-420d-967b-b3baf8516bbf"># Weather Forecast App
+<img width="629" alt="Screenshot 2024-03-01 at 3 02 47 AM" src="https://github.com/Vishaldadwal10/weather-forecast-app/assets/92011329/2e61cf98-1625-420d-967b-b3baf8516bbf">
 
 
 
