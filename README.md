@@ -1,4 +1,4 @@
-# Weather Forecast App
+<img width="629" alt="Screenshot 2024-03-01 at 3 02 47 AM" src="https://github.com/Vishaldadwal10/weather-forecast-app/assets/92011329/2e61cf98-1625-420d-967b-b3baf8516bbf"># Weather Forecast App
 
 An interactive weather forecast application built with JavaScript, HTML, and CSS. Utilizes a weather API to provide real-time weather updates and forecasts. Simple and intuitive interface for tracking weather conditions in any location.
 
@@ -26,8 +26,8 @@ An interactive weather forecast application built with JavaScript, HTML, and CSS
 
 - https://api.openweathermap.org/data/2.5/weather?lat={lat}&lon={lon}&appid={API key} from Open Weather 
 
-## Preview
 
-[Insert screenshot or GIF of your application]
+
+
 
 
